@@ -35,7 +35,7 @@ export function WorkSection() {
   ];
 
   return (
-    <section id="trabajos" className="min-h-screen px-6 py-20">
+    <section id="trabajos" className="min-h-screen px-6">
       <div className="max-w-6xl mx-auto">
         <motion.h2
           initial={{ opacity: 0, y: 20 }}

@@ -55,13 +55,13 @@ const translations = {
       subtitle2: 'FOCUSED ON THE USER'
     },
     about: {
-      title1: 'I love creating',
-      title2: 'amazing things',
-      title3: 'and solving complex problems',
-      title4: 'for people — like you.',
-      description1: 'I deliver impactful results',
-      description2: 'through strategic thinking',
-      description3: 'and data-driven insights.'
+      title1: 'I transform complex problems',
+      title2: 'into simple, clear,',
+      title3: 'and user-centered experiences.',
+      title4: ' ',
+      description1: 'I design high-impact digital experiences',
+      description2: 'combining strategic thinking,',
+      description3: 'research, and data-driven decisions.'
     },
     work: {
       title: 'MY WORK',
@@ -171,9 +171,9 @@ const translations = {
       }
     },
     footer: {
-      rights: '© 2026 Your Name. All rights reserved.',
-      privacy: 'Privacy',
-      terms: 'Terms'
+      rights: '© 2026 Jonathan Guglielmo. All rights reserved.',
+      privacy: ' ',
+      terms: ' '
     }
   },
   es: {

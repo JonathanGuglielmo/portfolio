@@ -82,11 +82,6 @@ export function ExperienceSection() {
                   </li>
                 ))}
               </ul>
-
-              <button className="mt-4 text-sm flex items-center gap-2 text-gray-400 hover:text-white transition-colors">
-                {t('experience.viewDetails')}
-                <ExternalLink size={14} />
-              </button>
             </motion.div>
           ))}
         </div>
